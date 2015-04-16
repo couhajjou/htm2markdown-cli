@@ -1,6 +1,6 @@
 {
   "name": "html2markdown-cli",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A CLI for html2markdown module",
   "main": "html2markdown-cli.js",
   "dependencies": {
