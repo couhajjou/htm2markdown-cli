@@ -1,0 +1,24 @@
+{
+  "name": "html2markdown-cli",
+  "version": "0.0.1",
+  "description": "A CLI for html2markdown module",
+  "main": "html2markdown-cli.js",
+  "dependencies": {
+    "commander": "^2.8.0",
+    "html2markdown": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html2markdown",
+    "markdown",
+    "conversion"
+  ],
+  "author": "Chakib Ouhajjou",
+  "license": "ISC",
+  "bin": {
+    "html2markdown-cli": "html2markdown-cli.js"
+  }
+}
