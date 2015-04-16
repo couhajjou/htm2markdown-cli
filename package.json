@@ -1,6 +1,6 @@
 {
   "name": "html2markdown-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A CLI for html2markdown module",
   "main": "html2markdown-cli.js",
   "dependencies": {
@@ -20,5 +20,9 @@
   "license": "ISC",
   "bin": {
     "html2markdown-cli": "html2markdown-cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/couhajjou/htm2markdown-cli.git"
   }
 }
